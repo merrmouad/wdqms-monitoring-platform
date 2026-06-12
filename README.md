@@ -78,15 +78,8 @@ Power BI
 
 ### Overview
 
-![Dashboard](images/PowerBI Dashboard.png)
+<img width="1278" height="715" alt="image" src="https://github.com/user-attachments/assets/e9e1a807-11f5-42cd-896b-ff3ad63e2b44" />
 
-### Global Map
-
-![Map](images/map.png)
-
-### Top Problematic Stations
-
-![Top Stations](images/top10_stations.png)
 
 ---
 
