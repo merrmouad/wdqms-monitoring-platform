@@ -10,7 +10,7 @@ The platform automatically extracts observation data from the WMO WDQMS API, tra
 
 ## Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](images/Architecture.png)
 
 ```text
 WDQMS API
@@ -78,7 +78,7 @@ Power BI
 
 ### Overview
 
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](images/PowerBI Dashboard.png)
 
 ### Global Map
 
@@ -108,7 +108,7 @@ Power BI
 
 The project includes automated Airflow DAGs for daily and monthly data ingestion.
 
-![Airflow](images/airflow_dag.png)
+![Airflow](images/Airflow_dag.png)
 
 ---
 
