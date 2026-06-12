@@ -1,0 +1,16 @@
+# Secrets
+.env
+.env.*
+
+# Airflow
+airflow/logs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Notebooks
+notebooks/
